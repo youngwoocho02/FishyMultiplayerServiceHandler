@@ -51,7 +51,8 @@ private async Task CreateDirectSession()
     {
         MaxPlayers = 4,
     }.WithFishyDirectNetwork();
-    // or .WithFishyDirectNetwork(yourCustomListenAddress, yourCustomPublishAddress, yourCustomPort); for custom addresses
+    // or use .WithFishyDirectNetwork(yourCustomListenAddress, yourCustomPublishAddress, yourCustomPort);
+    // for custom addresses
 
     var result = await MultiplayerService.Instance.CreateSessionAsync(option);
 
