@@ -4,7 +4,7 @@ A handler to bridge Unity 6's new [`Multiplayer Services`](https://docs.unity.co
 
 # What is Multiplayer Services Package? And Why Use It?
 
-Unity's **[`Multiplayer Services`](https://docs.unity.com/ugs/en-us/manual/mps-sdk/manual)** package is an integrated solution designed to dramatically simplify the development of multiplayer games. It acts as a central hub that combines various powerful Unity Gaming Services (UGS) like **[`Lobby`](https://docs.unity.com/ugs/manual/lobby/manual/get-started), [`Relay`](https://docs.unity.com/ugs/manual/relay/manual/get-started), [`Matchmaker`](https://docs.unity.com/ugs/manual/matchmaker/manual/get-started), and [`Multiplay Hosting`](https://docs.unity.com/ugs/manual/multiplay/manual/overview)** into a unified, high-level API.
+Unity's **[`Multiplayer Services`](https://docs.unity.com/ugs/en-us/manual/mps-sdk/manual)** package is an integrated solution designed to dramatically simplify the development of multiplayer games. It acts as a central hub that combines various powerful Unity Gaming Services (UGS) like **[`Lobby`](https://docs.unity.com/ugs/manual/lobby/manual/get-started), [`Relay`](https://docs.unity.com/ugs/manual/relay/manual/get-started), [`Matchmaker`](https://docs.unity.com/ugs/manual/matchmaker/manual/get-started), and [`Multiplay Hosting`](https://docs.unity.com/ugs/manual/game-server-hosting/manual/welcome-to-multiplay)** into a unified, high-level API.
 
 The core concept of this package is the **Session**. A session represents a group of players playing together, and it abstracts away the complex backend operations required to connect them.
 
