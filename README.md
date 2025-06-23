@@ -22,7 +22,7 @@ By using this handler with [`FishNet`](https://fish-networking.gitbook.io/docs),
 
 Before you begin, ensure your project has the following packages installed:
 
-*   **[`Unity 6.0`](https://docs.unity3d.com/6000/Documentation/Manual/index.html)** or newer
+*   **[`Unity 6.0`](https://docs.unity3d.com/6000.0/Documentation/Manual/index.html)** or newer
 *   **[`FishNet`](https://fish-networking.gitbook.io/docs)**: Networking Evolved (from Asset Store or GitHub)
 *   **[`Unity Transport`](https://docs-multiplayer.unity3d.com/transport/current/about/)** (`com.unity.transport` version 2.0 or newer)
 *   **[`Unity Multiplayer Services`](https://docs.unity.com/ugs/en-us/manual/mps-sdk/manual)** (`com.unity.services.multiplayer` version 1.1.0 or newer)
