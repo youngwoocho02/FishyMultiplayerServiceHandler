@@ -32,9 +32,6 @@ Before you begin, ensure your project has the following packages installed:
 
 1.  **Install Dependencies**: Using the Unity Package Manager, install the [`Unity Transport`](https://docs-multiplayer.unity3d.com/transport/current/about/) and [`Multiplayer Services`](https://docs.unity.com/ugs/en-us/manual/mps-sdk/manual) packages from the Unity Registry.
 2.  **Install [`FishyUnityTransport`](https://github.com/ooonush/FishyUnityTransport)**: Add the package via Git URL in the Package Manager. This is required for using Unity Relay.
-    ```
-    https://github.com/ooonush/FishyUnityTransport.git?path=Assets/FishNet/Plugins/FishyUnityTransport
-    ```
 3.  **Install this Handler**: Add this package using its Git URL in the Package Manager. You will need to create a `package.json` file in the root of your package folder.
     ```
     https://github.com/youngwoocho02/FishyMultiplayerServiceHandler.git
