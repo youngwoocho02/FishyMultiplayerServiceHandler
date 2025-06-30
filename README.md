@@ -128,6 +128,10 @@ private async Task QuickJoinOrCreateByLobby()
 
 This project is distributed under the MIT License. See the `LICENSE` file for more information.
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
 ## Related Resources
 
 *   [FishNet Official Documentation](https://fish-networking.gitbook.io/docs)
