@@ -1,7 +1,7 @@
 {
   "name": "com.devbookofarray.fishy-multiplayer-service-handler",
   "displayName": "Fishy Multiplayer Service Handler",
-  "version": "0.1.0",
+  "version": "1.1",
   "unity": "6.0",
   "description": "Handler to bridge Unity 6's Multiplayer Services package with the FishNet networking solution.",
   "keywords": [
