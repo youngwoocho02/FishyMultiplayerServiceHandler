@@ -16,8 +16,5 @@
     "name": "DevBookOfArray",
     "url": "https://github.com/youngwoocho02/FishyMultiplayerServiceHandler"
   },
-  "dependencies": {
-    "com.unity.transport": "2.0.0",
-    "com.unity.services.multiplayer": "1.1.0"
-  }
+  "dependencies": {}
 }
